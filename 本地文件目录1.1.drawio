@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2024-03-14T15:26:37.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="WRUs84Qf9sWsg-_Pdtf_" version="24.0.4" type="device">
+  <diagram name="第 1 页" id="6VdJ76q4XLyQ5IodUu4T">
+    <mxGraphModel dx="2074" dy="814" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t8tqSMZSb6N4MK5IelTE-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="22" y="589" width="898" height="464" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t8tqSMZSb6N4MK5IelTE-1" target="xfU7kRM2FDMsymGy_kJX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="t8tqSMZSb6N4MK5IelTE-1" target="xfU7kRM2FDMsymGy_kJX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t8tqSMZSb6N4MK5IelTE-1" target="xfU7kRM2FDMsymGy_kJX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="t8tqSMZSb6N4MK5IelTE-1" target="xfU7kRM2FDMsymGy_kJX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t8tqSMZSb6N4MK5IelTE-1" value="测试流程.py" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="66.5" y="671.5" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="t8tqSMZSb6N4MK5IelTE-2" value="测试工程1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="66.5" y="723.5" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="t8tqSMZSb6N4MK5IelTE-3" value="测试工程2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="66.5" y="775.5" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="t8tqSMZSb6N4MK5IelTE-4" value="……" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="66.5" y="827.5" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="t8tqSMZSb6N4MK5IelTE-5" value="2024-01-01log.txt" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="66.5" y="879.5" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="t8tqSMZSb6N4MK5IelTE-6" value="2024-01-02log.txt" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="66.5" y="931.5" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="t8tqSMZSb6N4MK5IelTE-7" value="……" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="66.5" y="983.5" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xfU7kRM2FDMsymGy_kJX-1" target="xfU7kRM2FDMsymGy_kJX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-1" value="编译及烧录功能脚本.py" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="412" y="612.75" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-2" value="发送邮件脚本.py" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="412" y="671.25" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-3" value="整理及解析log脚本.py" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="412" y="789" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-7" value="测试工程名称表.xls" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="688" y="612.75" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xfU7kRM2FDMsymGy_kJX-9" value="……" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="412" y="730.5" width="200" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
